@@ -10,4 +10,8 @@ TamperMonkey script to alert you when attendance is taken or your name or Reg no
 
 
 # Installation 
-  - Install the Tamper Monkey [https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+  - Install the Tamper Monkey 
+[https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+ - Go to this link [https://bit.ly/2CeB2cX](https://bit.ly/2CeB2cX) and click Raw to install the script 
+ 
+ Whenever u visit Google meet you will be notified when someone who is listening to the class types present so you can be ready
